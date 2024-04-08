@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/atamankina/node-file-sorter#readme",
   "dependencies": {
-    "@types/node": "^20.12.4"
+    "@types/node": "^20.12.5"
   }
 }
